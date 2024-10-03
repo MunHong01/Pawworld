@@ -1,0 +1,50 @@
+.bg-lightgreen {
+    background-color: #f3fde8;
+  }
+
+  .adoption-container{
+    background-color: rgba(168, 223, 142, 1);
+    border-radius: 118px;
+  }
+
+  form{
+    border-radius: 74px;
+  background-color: rgba(255, 229, 229, 1);
+  border: 5px solid rgba(168, 223, 142, 1);
+  }
+
+.submition{
+    all: unset;
+    display: flex;
+    flex-direction: column;
+    margin-top: 58px;
+    background-color: rgba(255, 191, 191, 1);
+    color: var(--Color, #4d3117);
+    border-radius: 76px;
+    text-align: center;
+    align-self: center;
+    width: 280px;
+    max-width: 100%;
+    align-items: center;
+    white-space: nowrap;
+    justify-content: center;
+    padding: 16px 70px;
+    font: 700 20px Inter, sans-serif;
+  }
+
+  h3, label,p,h1, span{
+    color: rgba(77, 49, 23, 1);
+  }
+
+  h1{
+    font: 400 48px Darling Coffee, sans-serif;
+  }
+
+  h3{
+    font: 400 24px Darling Coffee, sans-serif;
+  }
+
+
+  body{
+    background-color:rgba(168, 223, 142, 1) ;
+  }
