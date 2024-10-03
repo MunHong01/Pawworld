@@ -1,0 +1,35 @@
+
+@font-face{
+    font-family:"Darling Coffee";
+    src: url('./Darling\ Coffee.ttf');
+}
+
+.navbar {
+  background-color: #a8df8e;
+}
+
+.nav-link {
+  margin: 20px;
+  color: rgba(77, 49, 23, 1);
+  text-align: center;
+  display: flex;
+  font: 400 20px Darling Coffee, sans-serif;
+}
+
+.dropdown-item {
+ color: #4d3117;
+}
+
+.nav-item {
+  color: #4d3117;
+}
+
+.nav-item :hover{
+  color: #ffa4a4;
+
+}
+
+.dropdown-menu {
+  font-family:"Darling Coffee"; 
+}
+

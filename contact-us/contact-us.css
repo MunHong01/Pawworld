@@ -1,0 +1,51 @@
+.bg-lightgreen {
+    background-color: #f3fde8;
+  }
+
+  .contact-container{
+    border-radius: 41px;
+    background-color: rgba(243, 253, 232, 1);
+    border: 6px solid rgba(168, 223, 142, 1);
+  }
+
+  .contact-container{
+    color: var(--Color, #4d3117);
+  }
+
+  h1{
+    color: var(--Color, #4d3117);
+    text-align: center;
+    align-self: center;
+    margin-top: 35px;
+    font: 400 48px Darling Coffee, sans-serif;
+  }
+
+  h4{
+    color: var(--Color, #4d3117);
+    text-align: center;
+    font: 400 24px Darling Coffee, sans-serif;
+  }
+
+  form{
+    border-radius: 55px;
+    background-color: rgba(255, 229, 229, 1);
+    border: 6px solid rgba(255, 191, 191, 1);
+  }
+
+  form button{
+    color: var(--Color, #4d3117);
+    border-radius: 36px;
+          background-color: rgba(255, 191, 191, 1);
+          align-self: end;
+          margin-top: 28px;
+          font-size: 20px;
+          font-weight: 700;
+          white-space: nowrap;
+          text-align: center;
+          padding: 8px 35px;
+          border:0;
+  }
+
+  .submit:hover{
+    background-color:#A8DF8E ;
+  }

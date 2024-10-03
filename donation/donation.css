@@ -1,0 +1,96 @@
+.bg-lightgreen {
+  background-color: #f3fde8;
+}
+
+.donation-card {
+  color: var(--Color, #4d3117);
+  border-radius: 91px;
+  background-color: rgba(255, 229, 229, 1);
+}
+
+.donation-card .card-title {
+  font: 400 48px Darling Coffee, sans-serif;
+}
+
+.donation-requirement-container span {
+  color: var(--Color, #4d3117);
+  text-align: center;
+  font: 400 24px Darling Coffee, sans-serif;
+}
+
+.bg-green {
+  background-color: rgba(168, 223, 142, 1);
+}
+
+.bg-pink {
+  background-color: rgba(255, 191, 191, 1);
+}
+
+.individual-container {
+}
+
+.non-individual-container {
+}
+
+.individual-container, .non-individual-container{
+    color: var(--Color, #4d3117);
+}
+
+.text{
+    color: var(--Color, #4d3117);
+}
+
+.individual-container div,
+.non-individual-container div {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+
+
+.direct-bank-in-container{
+    border-radius: 25px;
+    background-color: rgba(255, 229, 229, 1);
+    border: 4px solid rgba(255, 191, 191, 1);
+}
+
+
+.upload-receipt-container{
+    border-radius:110px;
+    border:5px solid rgba(255, 191, 191, 1)
+}
+
+.upload-receipt-container h5{
+    font:400 48px Darling Coffee, sans-serif;
+}
+
+.upload-receipt-container h6{
+    font:400 24px Darling Coffee, sans-serif;
+}
+
+.submit-btn{
+    all: unset;
+        display: flex;
+        flex-direction: column;
+        margin-top: 75px;
+        background-color: rgba(255, 229, 229, 1);
+        color: var(--Color, #4d3117);
+        border-radius: 67px;
+        text-align: center;
+        align-self: center;
+        width: 296px;
+        max-width: 100%;
+        align-items: center;
+        white-space: nowrap;
+        padding: 12px 70px 19px;
+        font: 700 20px Inter, sans-serif;
+}
+
+.submit-btn:hover{
+  background-color:#A8DF8E ;
+}
+
+body{
+  background-color: rgba(168, 223, 142, 1);
+}

@@ -1,0 +1,19 @@
+.bg-lightgreen {
+    background-color: #f3fde8;
+  }
+
+  h1{
+    color: var(--Color, #4d3117);
+    text-align: center;
+    margin-top: 63px;
+    font: 400 48px Darling Coffee, sans-serif;
+  }
+
+  .contact-container{
+    border-radius: 73px;
+    background-color: rgba(255, 191, 191, 1);
+    font: 500 16px/24px Inter, sans-serif;
+    color: var(--Color, #4d3117);
+    padding: 88px 70px 67px;
+    justify-content: center;
+  }
