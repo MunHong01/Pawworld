@@ -1,0 +1,95 @@
+.bg-lightgreen {
+    background-color: #f3fde8;
+  }
+
+  .programme-btn{
+    border-radius: 30px;
+    background-color: rgba(255, 191, 191, 1);
+    align-self: start;
+    margin-top: 27px;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-align: center;
+    padding: 19px 46px;
+    border: 0;
+     color: var(--Color, #4d3117);
+  }
+
+  @media only screen and (max-width: 600px) {
+    .programme-btn{
+    border-radius: 30px;
+    background-color: rgba(255, 191, 191, 1);
+    align-self: center;
+    margin-top: 27px;
+    margin-left: 20%;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-align: center;
+    padding: 19px 46px;
+    border: 0;
+     color: var(--Color, #4d3117);
+  }
+  }
+
+  .programme-btn:hover{
+    background-color:#A8DF8E ;
+}
+
+  section:nth-child(1) h4{
+    font: 400 48px Darling Coffee, sans-serif;
+  }
+
+  @media only screen and (max-width: 600px) {
+    section:nth-child(1) h4{
+      font: 400 48px Darling Coffee, sans-serif;
+      align-self: center;
+      margin-top: 20px;
+    }
+  }
+
+  section:nth-child(1) p,section:nth-child(1) h4,
+  section:nth-child(2),form label,
+  form button, form h5{
+    color: var(--Color, #4d3117);
+  }
+
+  section:nth-child(2) h5{
+    font: 400 24px Darling Coffee, sans-serif;
+  }
+
+  .volunteer-container{
+    border-radius: 84px;
+    background-color: rgba(255, 229, 229, 1);
+  }
+
+  form{
+    border-radius: 44px;
+    border: 7px solid rgba(168, 223, 142, 1);
+  }
+
+  form h5{
+    font: 400 24px Darling Coffee, sans-serif;
+  }
+
+
+  form button{
+    border-radius: 67px;
+    background-color: rgba(255, 191, 191, 1);
+    align-self: center;
+    margin-top: 71px;
+    width: 296px;
+    max-width: 100%;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-align: center;
+    padding: 13px 70px 25px;
+    border:0;
+  }
+
+  .submit1:hover{
+    background-color:#A8DF8E ;
+}
+ 
