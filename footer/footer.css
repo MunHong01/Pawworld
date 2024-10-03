@@ -1,0 +1,28 @@
+
+@font-face{
+    font-family:"Darling Coffee";
+    src: url('./Darling\ Coffee.ttf');
+}
+
+.text-color {
+    color: #4D3117;
+    text-decoration: none;
+
+
+}
+
+.text-brown {
+    color: #4D3117;
+}
+
+.font-darling {
+    font-family:"Darling Coffee"; 
+}
+
+.cover{
+
+}
+
+.cover:hover{
+  color:  rgba(255, 191, 191, 1);
+}
